@@ -1,0 +1,2050 @@
+Job Description 
+Required only core java and SQL experience and expertise .  
+
+Mandatory skills required:
+Good knowledge over core JAVA
+Knowledge into SQL
+Ability to work with core IT domain
+Adapt easily to a new environment & quick decision making
+Strong communication skill and problem resolving approach.
+Salary: INR 50,000 - 1,50,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Other
+
+Role:IT/Technical Content Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Core Java SQL Core Java Developer
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Job Description- Front-end Designer and Developer
+
+Job Type: Full-time
+
+Job Summary 
+We are looking for a skilled and motivated individual to join us as a Front-end Developer in our team operating out of JP Nagar, Bangalore.
+
+Keywords: UI Developer, UX Developer, Web Developer, Frontend Developer, Web Designer, user experience design, UI Designer, Graphic designer
+
+Responsibilities and Duties 
+Work on our in-house products and add new features to them based on team feedback.
+Curate interactive elements across publisher websites.
+Enhance the UX of our product offerings.
+
+Required Experience, Skills and Qualifications
+Here's what we're looking for: 
+Proficiency in HTML5, CSS3, jQuery and Responsive design.
+Experience in Graphic Design and Photoshop would be a plus.
+While past experience is not mandatory, we do expect you to have worked on amazing UX projects - be it at a personal or a professional level.
+
+Benefits 
+Training across all our products
+Lunch is on the house
+Flexible working hours
+Enthusiastic and skilled peers to work with.
+Salary: INR 1,75,000 - 3,00,000 P.A.
+
+Industry:Internet, Ecommerce
+
+Functional Area:IT Software - eCommerce , Internet Technologies
+
+Role Category:Programming & Design
+
+Role:Graphic/Web Designer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Photoshop User Interface Designing User Experience Design UX Graphic Designing Web Designing JQuery Html5 UI Development Web Development Front End Developer
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+1) Develop websites related to travel domain using PHP, MySql, HTML, Smarty, Javascript, Ajax and jQuery, AngularJS.
+
+2) Responsible for generating and modifying well-designed website and banner advertisements and overall layout of the company website.
+
+3) Designing and developing responsive web pages w.r.t psd\'s and Integration. Fixing bugs on existing as well as new projects on alpha sites and deploying the same on live.
+
+4) Also integrating the web API's and applying the business logics.
+
+5) Designing the database structure.
+
+6) Integrate multiple Payment Gateways for projects.
+
+7) Making API\'s for fetching packages using PHP and MySQL
+
+8) Integrating API\'s in front end using angular js andJavaScript and jQuery.
+
+9) Work on REST Webservices for mobile application development.
+
+10) Integrate various suppliers for travel websites.
+
+Job locations : Coimbatore.
+
+Salary : 10K - 25K per month (Based on experience)
+
+Interested candidates can fix an appointment and WALK IN to below address,
+
+INTERVIEW DATE : 31st May & 1st June (Friday & Saturday)
+
+PH N0 : 74489 43434
+
+MAIL ID : ranjan@smileytrips.com
+
+SMILEY TRIPS
+Shop No.1, First Floor,
+12/17, Arangasamy Nagar,
+Airport Road, Civil Aerodrome Post,
+Coimbatore - 641 014.
+Salary: INR 1,25,000 - 3,00,000 P.A. Based on experience
+
+Industry:Travel , Hotels , Restaurants , Airlines , Railways
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Graphic/Web Designer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+javascript jquery html php mysql ajax smarty web development angularjs psd web developer Web Designer dreamweaver photoshop
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+  
+Role :Application Developer 
+
+Role Description :Design, build and configure applications to meet business process and application requirements. 
+
+Must Have Skills :Amazon Web Services 
+
+Good To Have Skills :No Technology Specialty 
+
+Job Requirements : 
+
+Key Responsibilities : a Should be dynamic n capable of performing rapid prototyping of the desired solution b Understand Architecture Requirements n ensure effective Design, Development, Migration,Validation activitiesc Develop proof of concepts to answer key questions that will inform the design n architectural decisionsd Deep technical expertise,business acumen n fluid communication n translate the possible into reality e Should have exp working with functional n multilocation team in a highly Agile environment 
+
+Technical Experience : a Should have deep hands on experience with either Java, NodeJS, React, Python, UI development b 2 year of application development,deployment experience on AWS platform c AWS certification associate level Professional and,or specialist certification is preferred 
+
+Professional Attributes : a Experience handling cross functional and multi location agile team b Should be completely aware of coding standards and should be able to develop high performance scalable UI applicationsc Excellent Conceptualization, Analytical and logical skillsd Have experience with client facing role 
+
+Educational Qualification : a AWS Cloud Certificationb At least 7 years of IT experience 
+
+Additional Information : a: Shift timing General b: Visa Required NO
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software / Software Services
+
+Functional Area:IT Software - Application Programming, Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+pythonapplication developmentagilecodingui development
+
+---------------------------------------------------------------------------------------------------------------------------------------
+job Description
+Role & Responsibilities: 
+Analyze product requirements and translate into high level and low-level designs and develop code in accordance to the defined designs.
+Contribute in creating Software Requirement Specifications (i.e. problem part).
+Achieve commitments and motivate development teams, assist development teams in attaining maximum effective sustainable pace for development.
+Ensure quality by evaluating results of iterations and either approve/ accept or reject results based on DONEness criteria.
+Analyze change request entries and prioritize with other product backlog items and take ownership of delivery
+Coordinate cross-feature-area development with peers to facilitate prioritized product development.
+
+Required Skills:
+At least 5 to 7 Years of experience in Java & J2EE Technologies.
+Core Java: Collections, Generics, data structures, Oops concepts, Exception handling, Design patterns, Data Structure
+Spring batch, AOP, boot, MVC architechture
+Hibernate
+JSP & JQuery
+RDBMS SQL/NoSQL
+Ms SQL Sever
+Strong Coding & Debugging skills
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Hibernate Spring Batch Aop JSP Core Java Design Patterns NoSQL OOPS MS SQL Server JQuery
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+Doctorate:Doctorate Not Required
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description Send me Jobs like this
+Job Description :
+The ideal Backend Engineers are polyglots who are fluent in HTTP and core CS concepts such as algorithms, data structures, and programming paradigms, and always pick the right tools for the right job. 
+
+- They have a keen eye for common security vulnerabilities and how to act on them (example: DDOS attacks, SQL Injection etc.). 
+
+- They understand what it takes to work in a startup environment and know when to trade performance for simplicity. 
+
+- They fail fast, learn faster, and execute in time. 
+
+- Strong communication skills, get-things-done attitude, and empathy 
+
+- Strong sense of ownership, drive and an obsessive attention to detail. 
+
+- Comfortable with iterative development practices and code reviews 
+
+- Previous experience as part of a product oriented team is a plus
+
+Key Skills : Javascript, Node.js, Java, python, typescript, Mongo DB, Mysql
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Javascript Node.js Java Python TypeScript MongoDB MySQL Polyglot Algorithm Data Structure Startup
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+
+Job Description:
+
+Someone who is both creative and technically inclined, and uses both these attributes to build or redesign websites.
+
+Ability to understand what is needed to make a website functional and easy to use, but at the same time make it aesthetically appealing to the user.
+
+Creates the look, layout, and features of a website. The job involves understanding both graphic design and computer programming.
+
+Once a website is created, help with maintenance and additions to the website. 
+Work with development teams or managers for keeping the site up-to-date and prioritizing needs, among other tasks.
+
+Job Duties:
+Writing and editing content.
+Designing webpage layout.
+Determining technical requirements.
+Updating websites.
+Creating back up files.
+Solving code problems.
+
+Skills required:
+Visual design.
+User Experience.
+Search Engine Optimization, marketing and social services.
+Using coding software like HTML and CSS.
+Using design software like Photoshop and Illustrator.
+
+Job Opening In Insurance Broking Company
+
+CTC Offered will be based on experience and qualification
+
+
+Keywords:
+Photoshop, Visual Design, Illustrator, HTML, CSS, User Experience, Content Editing, Web Designing, Content Designing, Graphic Designing
+
+Locations:
+Mumbai - Western Line
+Salary: INR 3,00,000 - 4,50,000 P.A.
+
+Industry:Insurance
+
+Functional Area: Other
+
+Role:Other
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Photoshop Visual Design Illustrator HTML CSS User Experience Content Editing Web Designing Content Designing Graphic Designing
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Required Skills :
+- Have 0-1 years of Coding experience in Java/ PHP/ Python 
+- Knowledge of web frameworks 
+- Knowledge of LAMP (Linux, Apache, MySQL and PHP/Python)
+- Knowledge of front-end technologies, such as JavaScript, HTML5,JQuery,AngularJS, CSS3
+- Automated unit test and debugging skills
+- Understanding of code versioning tools (such as Git or SVN)
+- Knowledge of MySQL and MongoDB
+- Hands-on experience with setting up a web server such as Apache
+- Knowledge of JavaScript MVC frameworks
+- Ability to do database design and modelling
+- Knowledge of HTTP protocol, REST APIs, JSON
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Javascript JQuery MySQL PHP LAMP Angularjs Html5 JSON MongoDB Java Python Django React.Js
+Desired Candidate Profile
+1. Good Communication Skills (both verbal and written) is a must
+2. Self Motivated, Team player and willingness to learn
+3. Strong Logical analysis and debugging skills required
+4. Ability to adapt in a fast paced, time sensitive environment
+5. Ability to work effectively in a cross functional team
+6. Maintain detailed technical documentation for all assigned tasks and projects
+
+Education-
+
+UG: Any Graduate - Any Specialization
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+- Deep expertise and hands-on experience with Web Applications and programming languages such as HTML, CSS, JavaScript, JQuery and API's
+
+- Thorough knowledge and experience with the Bootstrap framework
+
+- Should have experience in responsive UI design, capable of developing pages considering both desktop & mobile devices
+
+- Good understanding and experience of cross-browser compatibility, usability and accessibility design issues
+
+- Experience in code optimization and refactoring.
+
+- Ability to write high-performance, reusable code for UI component
+understanding of Photoshop.
+Salary: INR 2,00,000 - 4,00,000 P.A.
+
+Industry:Agriculture, Dairy
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+CSS Bootstrap Javascript HTML JQuery User Interface Designing Accessibility Photoshop Usability Web Technologies
+---------------------------------------------------------------------------------------------------------------------------------------
+job Description 
+Role Overview
+
+Developers are encouraged to avoid programming any features until they are actually needed, focusing on clarity of code and test writing. Reviewing and refactoring code is a common, on-going activity. The Pivotal "mindset" can be summarized easily, when taking a story from the backlog each developer is encouraged to do the following:
+
+1. Hypothesis: We believe that ...
+
+2. Test: We will do/make a test that proves...
+
+3. Evidence: We will know the hypothesis is valid if 
+
+Additional to asking these questions, developers are encouraged to think about how long it will take to answer these questions and the cost of solving them. We promote a high trust and highly collaborative culture where everyone is responsible for the quality of their code. A hypothesis driven culture requiring everyone to measure and prove their assumptions. Build, measure, learn is key to our success.
+
+Key Responsibilities:
+
+An ideal candidate is someone who enjoys working in a fast paced, collaborative environment. Someone that values team and leverages the opinions and expertise of their teammates to deliver working, quality code. Each individual values quality and pursues the proof of quality by consistently writing tests.
+
+Experience and practice using TDD to demonstrate functioning code that meets requirements
+
+Ability to work closely with other developers as part of a team or minimally, in a paired environment for 8 hours each day
+
+Strong communication skills and an ability to articulate technical vision while understanding business requirements. A conviction to ones implementation approach but not so unwavering that they cannot be swayed based on sound logic and feedback from their peers to see a higher value" implementation.
+
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+software engineering UNIX system administration process management Java Python Ruby C++ Spring
+Desired Candidate Profile
+Essential Requirements: 
+
+Knowledge of the cloud and deployment expectations and complexities. Developers should be capable of deploying application bits to AWS or other similar cloud environment.
+
+DevOps promotes the collapse of different functions into one; QA, IT, Dev etc. As a result, each developer will have a working knowledge of Ruby, Linux OS commands and be equally comfortable at the command line as they are in the IDE.
+
+Strong understanding of programming patterns is important and required. The ideal candidate will know an Object Oriented programming language with a deep understanding of programming patterns and demonstrable knowledge of object oriented programming will suffice. Our expectation is good foundational knowledge in a language such as Java/Python/Ruby/C++/Go is necessary.
+
+Additionally, candidates could benefit from a working knowledge of Spring, Java and Bash. To be effective an experience with system administration, UNIX, process management, deployment technologies.
+
+Candidates will be agile practitioners, having achieved proficiency in agile methodologies through years of experimentation and learning. A demonstration of more than just the basics is required to be successful.
+
+Candidates should demonstrate a deep experience participating in standups/daily scrums, planning meetings, iteration retrospectives etc.
+
+Open source participation and knowledge is important. Cloud Foundry is an open source technology and a strong understanding of what it means to work in open source is required.
+
+Education-
+
+UG: Any Graduate - Any Specialization
+
+PG:Any Postgraduate - Any Specialization
+
+Doctorate:Doctorate Not Required
+---------------------------------------------------------------------------------------------------------------------------------------
+
+job Description 
+
+Gartner is looking for well-rounded and motivated developers to join the Gartner Peer Insights team. The Peer Insights team is responsible for developing all customer facing web and mobile properties for Gartner Peer Insights, a Review & Ratings platform for Enterprise Software Products, Vendors and Services. The team works on the latest and greatest in high performance web development, data science, community development and mobile technologies.
+
+What youll do:
+
+Fluently code in Java Spring or similar J2EE frameworks.
+Work with Open source technologies and applications.
+Work in a fast paced Agile/SCRUM environment.
+Follow coding standards, build appropriate unit tests, integration tests and deployment scripts. 
+Assist in defining software architectures - Collaborate with leads to explore existing systems, determine areas of opportunities.
+Translate designs and style guides provided by the Design team into functional user interfaces, ensuring cross browser compatibility and performance.
+Contribute to continual improvement by suggesting improvements to user interface, software architecture or new technologies.
+
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Java J2Ee Spring Software Engineering Web Technologies Software Architecture Open Source Agile Scrum Web Development
+Desired Candidate Profile
+What youll need:
+
+Bachelor's or Master's degree in Computer Science or related engineering field w/experience in software development.
+5+ years of experience developing customer facing web applications.
+5+ years of experience in Java Spring or similar J2EE frameworks.
+5+ years of experience in ReactJS or similar Javascript frameworks
+5+ years of experience coding using object-oriented and aspect-oriented programming, architecture and design patterns.
+5+ years of experience front-end development using JavaScript, knowledge of various JavaScript libraries and micro frameworks (React, Angular, Backbone), HTML and CSS.
+Strong understanding of Restful API principles.
+Strong understanding of security best practices.
+Strong experience with unit testing and end-to-end testing.
+Excellent communication and interpersonal skills.
+Must be able to provide accurate estimates of technology work and deliver high quality work on schedule
+Ability to identify systemic operational issues and resolve them
+
+Who you are:
+
+Excellent Communication and Prioritization skills.
+Ability to work collaboratively across the IT organization (infrastructure/test/back office groups).
+Ability to work independently or within a team, proactively, in a fast-paced AGILE-SCRUM environment.
+Owns success Takes responsibility for successful delivery of the solutions.
+Strong desire to improve upon their skills in software development, frameworks and technologies
+
+What we offer:
+
+In addition to an outstanding work environment with rapid advancement potential, Gartner associates enjoy exceptional compensation and benefits, including:
+
+An upbeat, positive culture. Integrity, objectivity, collaboration, results and a no-limits mindset are central to our values
+Limitless growth. We work with you to help you meet your goals and advance within the company
+Encouragement to be innovative and challenge status quo
+Exposure to industry leading training and development
+Performance based recognition and rewards
+Education-
+
+UG: B.Tech/B.E. - Computers
+
+PG:M.Tech - Computers, MCA - Computers, MS/M.Sc(Science) - Computers
+
+Doctorate:Doctorate Not Required
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+
+CITI Corp is Hiring Women candidates for Java Developer - Permanent Role on Saturday(25.05.2019).
+
+Please go through the below details:
+
+Skill : Java Developer
+Exp:  6 to 12yrs
+Primary Skill: Java / J2ee, Struts, Spring and Hiberante.
+Interview Time : 09.30 am to 03.30pm
+Contact Person: Vimala.M
+Venue: 
+Little Wood Towers 2nd Floor, 
+Ramanujan IT City, 
+Taramani, Chennai 600 113
+Important & Mandatory Documents to be carried:
+1. Updated resume (DOB & Address should be mentioned in the resume)
+2. Print out of this interview call letter
+3. Govt Issued ID Proof (PAN ID or Aadhar ID or Passport or Drivers License or Election card).
+
+Salary: Not Disclosed by Recruiter
+
+Industry:Banking, Financial Services, Broking
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+java j2ee core java java developer Java Program Manager java delivery manager
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: B.Tech/B.E. - Computers
+
+PG:Post Graduation Not Required
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 
+Primary Responsibilities/Accountabilities Of The Job : 
+
+- Troubleshoot existing Tier II/ III support issues across multiple areas of HR and Payroll functions globally to identify errors or deficiencies. Brainstorm possible solutions, evaluating alternatives against decision criteria. Advise on alternate methods of solving problems or recommend specific solutions in partnership with HR/Payroll systems team members.
+
+- Perform analysis, design, coding and testing work for system fixes, enhancements, and new application development efforts. 
+
+- Participate in project planning sessions with clients, business analysts, and team members to analyze requirements and design solutions. Provide status updates to the project lead.
+
+- Provides subject matter expertise across several technologies and disciplines.
+
+- Demonstrate a high understanding of business concepts and processes, and the IT implications and options.
+
+- Identify appropriate sources of data feeds and interfaces with data managers to ensure feasibility.
+
+- Ensure compliance with development guidelines and standards utilized in software development/ integration.
+
+- Responsible for documenting changes to architecture, integration plans, and conversion plans.
+
+- Utilize and stay current on multiple programming languages and software/ hardware technologies.
+
+- Participate in various team meetings and cross team collaboration activities.
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Network Administration , Security
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+ERP OOPS System Design System Integration Java Python .Net Workday Integration Application Designing Workday Troubleshooting
+Desired Candidate Profile
+Qualifications & Experience :
+
+Experience : 
+
+- 7+ years of total IT professional experience working on ERP technology platforms such as SAP, PeopleSoft and Oracle
+
+- 3+ years of experience using Workday integration technologies - EIBs, CCB, Core Connectors, PICOF, PECI, Studio, BERT, Integration System Security etc., 
+
+- Experience developing with OOP languages such as Java, .NET, Python and Ruby
+
+Education : Bachelor's Degree in Computer Science, Engineering or related technical field
+
+Skills : 
+
+- Knowledge of Core HR, Benefits Compensation, Talent Management and Payroll processes
+
+- Experience working independently and also in an onsite/offshore team environment
+
+- Expertise in systems design and integration technology
+
+- Has a broad understanding of information systems and architecture standards 
+
+- Experience developing functional and technical specifications, test plans and test cases in support of unit and system testing 
+
+- Experience with root-cause analysis and troubleshooting applications issues 
+
+- Verbal and written proficiency in English language
+
+- The ability to work well with people from many different disciplines with varying degrees of technical experience and in varying levels of the organization
+
+- Ability to learn and adopt new technologies
+
+- Ability to thrive in a fast-paced, growing and changing environment
+
+Internal & External Contacts :
+
+Internal: Global HR teams, Global Payroll teams, HR/Payroll IT team, Other IT teams
+
+External: Product Vendors (Workday, Mercer, etc)
+
+Supervisory Responsibilities : N/A
+
+Budgetary Responsibilities : N/A
+
+Decision Making : Partner with business, vendors and IT teams to evaluation solution options and recommend go forward plan. 
+
+Resourcefulness/Creativity : 
+
+- Utilize and stay current on multiple programming languages and software/ hardware technologies.
+
+- Provide innovative solutions resulting in operational efficiencies that aligns to company's strategies and initiatives.
+
+Environment : This is a global role.
+Education-
+
+UG: B.Tech/B.E. - Computers
+
+PG:Any Postgraduate - Any Specialization
+
+Doctorate:Doctorate Not Required
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Greetings from Encore Software Services !
+
+Currently we have urgent requirement for Wordpress Developer - Experience role with one of our projects, location based in Chennai. 
+
+Job Location : Chennai. 
+Job Role : Permanent 
+Experience : 2 - 4 yrs 
+Notice Period : Below 1 month 
+
+Please find the below JD for Wrodpress Developer :
+Good Communication Skills
+Must have hands On experience in Wordpress
+Good working experience in LAMP Stack.
+Experience is 2-4yrs
+Nice to have experience in AWS Especially on S3 Bucket and cloud search.
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+LAMP Wordpress AWS Cloud Software Services Communication Skills PHP php developer lamp developer lamp programmer php programmer Web Development website development website designing Blogging
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Hashmap is hiring for Spark Developers to work at client location in Bangalore.
+
+Experience Range:  3-9 Years
+Job Location: Bangalore
+Skills required: Spark, Scala, Kafka, NiFi
+Notice Period: Immediate - 30 days
+
+Job Description
+Expertise in Hadoop development
+Expertise in Spark development
+Expertise in technologies like kafka and NiFi
+should have a background from Java, Python or Scala
+
+Salary: INR 4,00,000 - 9,00,000 P.A. No Bound for right candidate
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Hadoop spark kafka NiFi Scala java Python
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+We are hiring Java/ J2ee developer in Bangalore.
+
+Interview Process: Online test -> F2F interview in Bangalore 
+
+Job Responsibilities:
+
+1.Developing software by understanding the requirements by following the software development lifecycle.
+
+2.Involve in analysis, Design, Development, Unit Testing and support activities
+
+3.Documents and demonstrates solutions by developing documentation, flowcharts, code, unit testing, using code review tools etc.,
+
+Pre-requisites:
+
+1.Clear understanding of OOPS concepts
+2.Experience on Java J2EE and Spring/Hibernate/ any framework
+3.Experience on HTML/ JavaScript/ Angular JS / React JS
+4.Expertise on SQL
+5.Experience on Unix, Shell scripting
+6.Any one of the SCM tool usage experience
+7.Experience on web services
+
+
+
+Salary: INR Best in Industry
+Industry: IT-Software / Software Services
+Functional Area: IT Software - Application Programming, Maintenance
+Role Category: Programming & Design
+Role: Software Developer
+Employment Type: Permanent Job, Full Time
+Keyskills:
+java developerjava j2eespringHibernateJava J2Ee DeveloperOOPSobject oriented programmingFull Stack DeveloperHTMLJavascriptAngularjsSQLWeb ServicesUnixShell Scripting
+Desired Candidate Profile
+
+Education:UG -B.Tech/B.E. - Any Specialization
+PG - M.Tech - Any Specialization, MCA - Computers, Integrated PG - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+BE/B-Tech/M-Tech/MCA in Computer Science or equivalent combination of technical education and work experience.
+Should have very good technical skills in Core Java J2EE, (Spring Struts, Hibernate, Design Patterns, Restful Web Services, etc).
+Good knowledge on Spring boot 
+Excellent Problem-solving Skills.
+
+Strong in JUnit.
+
+Good to have knowledge of technologies like AngularJS/ExtJS/ NodeJS/ReactJS.
+Exposure to relational databases like Oracle, MySQL and some NoSQL database like MongoDB, Couchbase.
+Expertise in Object-Oriented Programming/ Development and Design skills.
+Proven ability to drive large scale projects with a deep understanding of Agile SDLC, high collaboration and leadership.
+Stro+ng analytical thinking and problem-solving skills.
+Salary: INR 5,50,000 - 15,50,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Spring Boot Hibernate Struts J2Ee Core Java JUnit ExtJS Web Services Design Patterns MongoDB
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+
+1.Experience in GCP/Google Cloud Platform Infrastructure including setting up a complete business service
+
+2.Experience in Cloud Storage, Compute Engine, App Engine, Cloud Functions
+
+3.Experience in one or more of the following Python, Java scripting, NodeJs, React JS
+
+4.Experience in Cloud Virtual Network, Cloud Load Balancing, Cloud CDN, Cloud Interconnect, Cloud DNS, Network Service Tiers
+
+5.Experience working with scalable networking technologies such as Load Balancers/Firewalls and web standards (REST APIs, web security mechanisms)
+
+6.Experience in Google Transfer Appliance and Google Storage Appliance
+
+7.Experience in Google Tools and Management Services
+
+8.Experience working with deployment and orchestration technologies (such as Docker, Kubernetes, Mesos, OpenStack, Puppet, Chef, Salt, Ansible, Jenkins)
+
+9.Experience with Unix/Linux operating systems internals and administration (eg, filesystems, inodes, system calls) or networking (eg, TCP/IP, routing, network topologies and hardware, SDN)
+
+10.Familiarity with standard IT security practices such as encryption, certificates and key management
+
+Salary: Not Disclosed by Recruiter
+
+Industry:Wellness , Fitness , Sports, Beauty
+
+Functional Area:Engineering Design , R&D
+
+Role Category:Engineering Design
+
+Role:Technical Lead/Project Lead
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Java Rest Javascript Docker Ansible Python Openstack Linux Web Technologies Jenkins
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: B.Tech/B.E.
+
+PG:M.Tech
+
+Doctorate:Doctorate Not Required
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description Send me Jobs like this
+Position Summary:
+
+Are you passionate about working with smart people on challenging problems in an environment that values hard work, integrity and teamwork? F5 Networks A Market leader in Application Delivery Controllers and Security platforms is hiring for its Centre of Excellence office in Hyderabad, India. Join our team of super smart engineers working in a fun, fast-paced, and highly technical environment where your dreams can become reality.
+The Control Systems Group, responsible for manageability of wold renowned F5 BIG-IP product line is building the future of management interfaces, for next generation cloud based and virtualized BIG-IP platforms. We are passionate about using Agile development and DevOps principles to build a modern, automation ready system that scales to meet and exceed customer expectations.
+As a Software Engineer-III, you will be responsible for the design and development of features and components in the control system as well as the automation necessary to test and deploy new features. You are responsible for mentoring junior members in the team. Youll work with architects, leads, Product Management, cross-functional teams, and other stakeholders to help define and implement solutions.
+
+Mandatory Skills: 
+
+Excellent software designing skills, with object-oriented concepts.
+Strong knowledge of C/C++, JavaScript/Node.js and Java
+Strong analytic / trouble-shooting skills.
+Very good experience in SCM concepts like branching, labelling and in using tools (git or perforce)
+Good knowledge in Linux user space programing, should be experienced in using linux IPC, RPC, multi threading features.
+Comfortable in using debugging tools like gdb, valgrind and static code analysis tools like coverity.
+Able to collaborate and thrive in a fast-paced high-performance environment.
+Demonstrated excellence in written and verbal communications.
+Minimum 4 years product development experience in networking domain (Routing, switching, and Linux networking stack).
+
+Good to Have skills:
+
+Knowledge of docker containers, kubernetes
+REST based webservices development and microservices
+Automation using Python, and other automation systems like Ansible, Chef, or Puppet
+Agile based software development methodologies like SCRUM.
+
+Qualifications:
+
+Requires a minimum of 5 - 6 years of related experience with a Bachelor of Engineering in ECE/Computers or 3 years experience with ME/MTech in ECE/Computers.
+Excellent organizational agility and interpersonal skills throughout the organization.
+Ability to work flexible hours for better collaboration with International teams.
+F5 Networks, Inc. is an equal opportunity employer and strongly supports diversity in the workplace. The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+Salary: INR 10,00,000 - 15,00,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+c node.js java c++ python microservices rest valgrind web services
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: B.Tech/B.E. - Any Specialization, Computers, Electrical, Electronics/Telecommunication, BCA - Computers
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+- Experience in multiple Languages (Nodejs is a must). Others like Golang, C#, Java, Python
+- Experience working into bulk data processing/ingestion systems
+- Hands with multiple database solutions (SQL/ No-SQL /data lake)
+- Knowledge/experience on multiple technologies (Lambda/ Athena/BigQuery/Data streaming(Kafka/ AWS/ Kinesis/ Spark) etc.
+- Ability to understand problems, come up with multiple solutions. should be able to do quick POCs
+- Ready to dig into problems and get to the right solution. Ready to give extra push wherever required
+- Great team play and ability to lead teams by example
+- Hands-on exp. in UI or willing to learn/guide team working on UI parts
+
+Mandate: - 
+
+Experience in multiple Languages (Nodejs is a must). Others like Golang, C#, Java, Python
+Experience working into bulk data processing/ingestion systems
+Hands with multiple database solutions (SQL/ No-SQL /data lake)
+Knowledge/experience on multiple technologies (Lambda/ Athena/BigQuery/Data streaming(Kafka/ AWS/ Kinesis/ Spark) etc 
+Notice Period should be less than 30 days.
+
+Salary: INR 15,00,000 - 25,00,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Java Node.Js Spark SQL Python C# AWS Database Data Processing
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+
+Doctorate:Doctorate Not Required
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Web Designing professionals with Min 6 Months Experience. Strong knowledge in PHP, HTML, CSS, Java script JQuery, DBMS, Responsive layout.
+- Familiarity with PHP
+- Hands on experience in Wordpress/Magento
+- Adequate knowledge of relational database (MYSQL/MSSQL)
+Salary: INR 1,25,000 - 2,25,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - eCommerce , Internet Technologies
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+PHP HTML Wordpress CSS Magento Javascript MySQL JQuery Web Development Web Designing
+Desired Candidate Profile
+Plan, develop, test, deploy, and maintain Website using an assortment of technologies, including PHP, Wordpress or Magento. Create and maintain SQL databases.
+Education-
+
+UG: BCA - Computers, B.Tech/B.E. - Computers, B.Sc - Computers
+
+PG:MCA - Computers
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+  
+Role :Application Developer 
+
+Role Description :Design, build and configure applications to meet business process and application requirements. 
+
+Must Have Skills :Amazon Web Services 
+
+Good To Have Skills :No Technology Specialty 
+
+Job Requirements : 
+
+Key Responsibilities : a Should be dynamic n capable of performing rapid prototyping of the desired solution b Understand Architecture Requirements n ensure effective Design, Development, Migration, Validation activitiesc Develop proof of concepts to answer key questions that will inform the design n architectural decisionsd Deep technical expertise,business acumen n fluid communication n translate the possible into reality e Should have exp working with functional n multilocation team in a highly Agile environment 
+
+Technical Experience : a Should have deep hands on experience with either Java, NodeJS, React, Python, UI development b 2 year of application development,deployment experience on AWS platform c AWS certification associate level Professional and,or specialist certification is preferred 
+
+Professional Attributes : a Experience handling cross functional and multi location agile team b Should be completely aware of coding standards and should be able to develop high performance scalable UI applicationsc Excellent Conceptualization, Analytical and logical skillsd Have experience with client facing role 
+
+Educational Qualification : a AWS Cloud Certificationb At least 7 years of IT experience 
+
+Additional Information : a: Shift timing General b: Visa Required NO
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software / Software Services
+
+Functional Area:IT Software - Application Programming, Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+pythonapplication developmentagilecodingui developmentconceptualization
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Hands-on experience in Java/J2EE including analysis, design and development in responsive web applications.
+Strong OO design skills with good knowledge of object modelling and design patterns.
+Experience in working in team-oriented agile development process.
+Experience delivering high quality enterprise software preferably cloud based application.
+Strong analytical and debugging skills. Ability to anticipate problems, recognize them when they arise, and solve them as quickly, efficiently, and practically as possible.
+Excellent Communication skills both written and verbal. Should be able to communicate well with local and global teams.
+Take full ownership of a feature set from initial requirements discussions to live deployment from UI to back-end
+Salary: INR 2,50,000 - 6,00,000 P.A. As per industry standard
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+java j2ee design patterns web technologies agile development design development jsp servlets responsive web design web development web designing html developer javascript android development full stack web developer
+Desired Candidate Profile
+Responsive UI development skills (JS, CSS3, HTML5, jQuery, Bootstrap, Angular JS).
+Strong knowledge of core JAVA 1.5 and above, jsp, servlet, MVC. Knowledge of Multithreading is added advantage.
+Strong knowledge of Relational Databases, SQL, and any ORM tool like Hibernate etc.
+Development and CI tooling (Git, Maven, Jenkins, Team city etc).
+Knowledge Web Service frameworks (Restful).
+Agile / XP product development exposure.
+Experience to CRM, ERP, Business Application domain. (Nice to have)
+Web development experience 2 years and more desirable
+Education-
+
+UG: B.Tech/B.E. - Any Specialization
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Job type: Software Development - Full time
+
+Location: Bangalore
+
+We are building a powerful conversational AI engine specifically for local businesses and we are looking for top Software Engineers as independent contributors and team players, to help make our vision a reality.
+
+Requirements:
+
+B.E/B.Tech/MCA/M.Tech from a top-tier college
+
+4-6 Years experience in a product development environment
+
+Strong Java programming skills, including design and integration of XML/JSON over HTTP/REST/SOAP based APIs
+
+Ability to interface via JDBC/ODBC to SQL based DB and independently write SQL statements required for various integration endpoints and business logic
+
+Good familiarity with Java collections, Apache Commons and similar third-party libraries and role/task specific frameworks
+
+Familiarity with NoSQL (Redis/MongoDB/Cassandra) and Message Queues (ActiveMQ/RabbitMQ)
+
+Exposure to Python and open-source machine learning frameworks such as TensorFlow a definite plus
+
+Comfortable working with Git/SVN and a good understanding of version control
+
+Knowledge of or experience with SOA/SaaS/Microservices based environments
+
+Ability to understand business requirements/workflows and come up with technical designs and implementations
+
+Experience working in fast-paced environments, handling diverse roles and responsibilities across the entire product
+
+Excellent analytical abilities and an interest and aptitude for debugging as well as learning across multiple roles and responsibilities
+
+Excellent communication skills (written as well as verbal/spoken) as well as the ability to prepare and document detailed business use cases, workflows, test cases and user guides
+
+Start Date: Must be ready to start immediately
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Core Java NoSQL Redis JDBC Cassandra SQL Python Rabbitmq Machine Learning ODBC Java ActiveMQ RabbitMQ
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+  
+Looking for candidates with 2+ years experience with python automation. Proficient in Python scripting. Experience in commercial automated systems. Write the test specifications to meet standards for product release. Proven track record of test automation & debugging skills. Bluetooth or Audio domain knowledge is desirable like Bluetooth audio profile knowledge like A2DP, HFP or Audio interface domain knowledge for THD+N,SNR, FFT
+Salary: INR 10,00,000 - 18,00,000 P.A. Company Stock + Other Benefits
+
+Industry:Semiconductors / Electronics
+
+Functional Area:IT Software - Telecom Software
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+BluetoothPythonAutomationAudioDebuggingTHD+NSNRFFTA2DPHFPPython Developer
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG:B.Tech/B.E. - Computers, Electronics/Telecommunication
+
+PG:M.Tech - Computers, Electronics/Telecommunication
+
+Doctorate:Other Doctorate
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Good Experience on Core Java, any framework and Oracle DB.
+Hands-on J2EE application servers.
+Should have good knowledge of databases and SQL.
+Experience in JavaScript framework.
+Hands on experience in OOPS concepts and design patterns
+Salary: INR 5,00,000 - 10,00,000 P.A.
+
+Industry:BPO, Call Centre, ITeS
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Team Lead/Technical Lead
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+j2ee core java struts spring hibernate sql pdlc jboss jpa javascript ajax resteasy jquery bootstrap js servlets jdbc j2ee application data structures algorithms software developer software programmer software engineer Angularjs
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: B.Tech/B.E. - Computers, Any Graduate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+About the Role
+
+At Hotstar, we have over 300 million users and capture close to a billion click stream messages daily. The engineering team at Hotstar is at the centre of the action and is responsible for creating unmatched user experience. Our engineers solve real life complex problems and create compelling experiences for our customers.
+
+We are looking for a solid rockstar engineer who can hack around multiple technologies and build highly scalable, low latency, distributed systems with RESTful services.
+
+The pace of our growth is incredible if you want to tackle hard and interesting problems at scale, and create an impact within an entrepreneurial environment, join us!
+
+Your Key Responsibilities
+
+You will build robust secure and scalable micro-services to power Hotstar applications
+You will be responsible to implement RESTful services with a metric-driven API Gateway
+You will ensure sub-second server response and will be responsible to implement relational, document, key, object or graph data-stores, index stores and messaging stores as needed
+You will take ownership to run and maintain Cloud infrastructure
+You will continuously evaluate relevant technologies, influence and drive architecture and design discussions
+
+What to Bring
+
+B.Tech/B.E. in Computer Science from a reputed college or related technical discipline with 4-8 years of experience in software development with strong expertise in Java
+Experience with micro web frameworks like Play, Spring MVC, Node.js, reactive programming
+Exposure in building RESTful APIs with monitoring, fault tolerance and metrics (with something like Hystrix)
+Experience with MySQL, NoSql (Cassandra, Redis, DynamoDB) 
+Experience in server-side services using ElasticSearch and ESB - Camel, ActiveMQ
+Experience in JEE, Spring, Hibernate
+Hands-on with AJAX and Javascript
+Experience with AWS stack
+High adaptability in a dynamic start-up environment
+
+amjad@hotstar.com
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - eCommerce , Internet Technologies
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+java data structures algot algorithms mysql oops object oriented programming LLD High Level Design
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Looking for Drupal /PHP Developer.
+Job responsibilities include:
+Developing custom modules for Drupal  CMS and supporting existing web applications.
+Responsible to develop web solutions by using Drupal-8 
+Responsible for working with web services.
+He/she will be responsible for designing and implementing new features and functionality using well defined and established practices.
+Responsible for ensuring high performance and availability and managing all technical aspects of the CMS.
+He/she can work closely with front end developers to ensure an effective implementation.
+Salary: INR 5,00,000 - 8,00,000 P.A. PF, ESI, Health Insurance, Free OPD in reputed hospitals
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+PHP Drupal CMS Web Technologies Front End Web Services Drupal Developer drupal php developer drupal php programmer Drupal 8 drupal php
+Desired Candidate Profile
+Experience as a software Developer using Drupal 7/8 and PHP.
+Experience developing web solutions in Drupal & PHP in a windows & Linux environment.
+Advanced site building experience with deep understanding of Drupal & its modules such as Ctool, Views, Services, web forms.
+Hands on with performance tuning for Drupal based applications.
+Good understanding of java script , jquery, HTML, Ajax, OOPS concept, design patterns, CSS.
+Expertise with MYSQL, Maria DB.
+Proficient in writing & optimizing SQL statements.
+Working knowledge of GIT/SVN.
+Good communication skills in English. 
+Minimum experience: 4-5 yrs.
+Should be able to join within 0-15 days.
+Education-
+
+UG: B.Tech/B.E. - Any Specialization
+
+PG:MCA - Computers
+
+Doctorate:Doctorate Not Required
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Understanding Client Requirements and functional specifications. 
+Designing, developing, maintaining and optimizing secure and scalable multi-tier web applications. 
+Testing the website and identifying any technical problems and hitches. 
+Uploading the web site onto a server and registering it with different search engines. 
+Determining any functionality that the site must support and developing Dot Net content based on practical approved layout.
+Identifying the content type the site will host and ensuring compatibility with the Dot Net programming requirements. 
+
+Desired Skills :
+Minimum 2 years of working experience in the technologies like ASP.NET, MVC, WebAPI, JQuery, WCF, WPF.
+Must have worked on both Web and Windows application
+Strong background of Asp.net 4.0 or 4.5 Programing. 
+Knowledge of technologies like MVC4/5 with C#, LINQ or Entity Framework. Sound knowledge of Oops.
+Knowledge of Angular JS is preferred.
+Strong analytical skills. 
+Should have good Communication skills. 
+Should have technical bent of mind. 
+Should have problem solving, prioritizing tasks, multi-tasking abilities.
+Should be able to understand and handle tasks independently.
+Salary: INR 3,00,000 - 7,00,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+WCF ASP.Net MVC C# LINQ WPF Entity Framework Windows Application JQuery Javascript .Net
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Hardware & Software of IT related Components
+Maintenance of Server
+ERP system (Custom ERP) Focus on ERP Accounting
+MS Office Trouble Shooting
+Tele Communication Towers and Internet Networking System
+IT related administration
+Intercom/EPABX System
+Salary: INR 6,00,000 - 8,50,000 P.A.
+
+Industry:Automobile, Auto Anciliary, Auto Components
+
+Functional Area:IT Hardware , Technical Support , Telecom Engineering
+
+Role Category:IT Hardware
+
+Role:System Administrator
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Internet Focus Networking MS Office ERP System
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: B.Tech/B.E. - Computers, Diploma - Any Specialization, Computers
+
+PG:Post Graduation Not Required
+
+Doctorate:Doctorate Not Required
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+The primary purpose of this position is to manage daily accounting activities; ensuring that proper accounting and recording of company transactions as per US GAAP in an accurate manner; and producing financial and other key reports for management.
+
+Responsible for monthly closing and reporting as per US GAAP.
+Manage month-end closing and year-end closing and coordinates and assigns duties to the accounting staff as needed.
+Maintain the accuracy and accounting system to ensure the proper, complete, and accurate record-keeping of accounting company transactions are performed within the Generally Accepted Accounting Principles (GAAP).
+Makes adjustments to daily operations when needed to ensure the department meets overall goals and objectives.
+Provides training, guidance, and direction to employees to ensure work is performed in an efficient, timely, and knowledgeable manner.
+Maintains and reconciles the fixed assets to the general ledger of the company.
+Effectively communicate with the overseas finance team
+Maintains good corporate relations with customers, vendors, banking institutions, auditors, owner companies and other affiliates.
+Coordinates year-end audit with external auditors and assists in the preparation of audit schedules, data, and information.
+Works closely with the accounting staff to coordinate efforts to provide needed information for the auditors.
+
+Education Location and Experience:
+
+Qualified Chartered Accountant.
+Good communication skills
+4-5 years of progressive accounting experience
+Experience of working with IT/ITES companies will be an added advantage
+Salary: INR 7,00,000 - 17,00,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:Accounts , Finance , Tax , Company Secretary , Audit
+
+Role Category:Accounts
+
+Role:Accounts Manager
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Daily Accounting Finance Auditing Fixed Assets Chartered Accountant General Ledger Financial Management US GAAP Banking Accounting System
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+
+PG:CA
+
+Doctorate:Any Doctorate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Dear Candidates,
+Greetings from Sandbox!!!
+
+Attractiive Opportunity with Sandbox for our client in Singapore - Senior Software Consultant
+
+Requirement:
+
+Java server-side development experience with decent understanding of core design patterns.
+Hands on experience in Java 8 and above & Microservice experience
+Basic understanding distributed application environments
+Experience with SQL databases
+Knowledge of software best practices, like Test-Driven Development (TDD) and 
+Continuous Integration (CI)
+Knowledge of consuming REST APIs
+Knowledge of Unix/Linux environments is plus
+Knowledge of Agile/Scrum development methodologies is a plus
+Knowledge of asynchronous messaging middleware is a plus
+Be nice, respectful, able to work in a team
+
+Responsibilities:
+
+Java server-side development
+Hands-on coding, develop high quality code while meeting deadlines
+Provide unit testing
+Working in highly collaborative, fun loving team using Agile methodology
+Write code for others, not for yourself your code will be visible to thousands of developers
+Develop a new platform (greenfield project) from scratch.
+Initial design, coding & functional testing for private cloud deploymentInitial design, coding & functional testing for private cloud deployment
+
+Direct Interview in Bangalore on 31st May,3rd June & 4th June 2019
+
+Kindly share your profiles to tabbu@sandboxprofessionals.com
+
+Regards
+Tabbu
+
+Salary: USD 70,000 - 80,000 P.A.
+
+Industry:Banking, Financial Services, Broking
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Java SQL Rest Design Patterns Linux TDD Continuous Integration Unix Middleware Agile
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 
+Recruitment for automotive industry
+
+Recruitment for Domestic locations
+
+Mid Level to Top level Recruitment
+
+Mass mailing, job posting
+
+Follow up with candidates
+Bulk Hiring
+
+Salary: INR 2,00,000 - 3,50,000 P.A.
+
+Industry:Recruitment, Staffing
+
+Functional Area:HR , Recruitment , Administration , IR
+
+Role Category:HR/ Recruitment / IR
+
+Role:Recruitment Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+hr recruiter Automotive Non It non it recruiter
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Recruitment for automotive industry
+
+Recruitment for Domestic locations
+
+Mid Level to Top level Recruitment
+
+Mass mailing, job posting
+
+Follow up with candidates
+Bulk Hiring
+
+Salary: INR 2,00,000 - 3,50,000 P.A.
+
+Industry:Recruitment, Staffing
+
+Functional Area:HR , Recruitment , Administration , IR
+
+Role Category:HR/ Recruitment / IR
+
+Role:Recruitment Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+hr recruiter Automotive Non It non it recruiter
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Job Description: 
+Experience in HTML5 games development, ideally using Create JS, Phaser.IO and Pixi that can be accessed on browsers across multiple devices - mobile phones, tablets and desktops.
+Passionate about games, with an understanding of game-play mechanics
+Well versed in OOP practices and design patterns
+Knowledge of the latest libraries and frameworks
+Experience with using third party plugins and code, and knowing when to use them
+Write clean, readable, reusable code
+Work closely with game designers, game artists and game testers, and oversee the implementation of new features and systems.
+Architect the code for memory and performance optimization taking ownership of quality, and analyze the game performance using different tools and other methods.
+Strong debugging and optimization abilities.
+Experience with WebGL and shaders
+Experience in developing games for Mobile Devices
+
+
+Salary: INR Best in industry
+Industry: Education / Teaching / Training
+Functional Area: IT Software - Application Programming, Maintenance
+Role Category: Programming & Design
+Role: Software Developer
+Employment Type: Permanent Job, Full Time
+Keyskills:
+JavascriptHtml5WebglDesign PatternsOOPPluginsPerformance OptimizationThird PartyMobile PhonesGame DevelopmentGame Designer
+Desired Candidate Profile
+
+Education:UG -Any Graduate
+PG - Post Graduation Not Required
+Doctorate - Doctorate Not Required
+---------------------------------------------------------------------------------------------------------------------------------------
+job Description
+Responsible for implementation & deployment of Data Center Implementation Projects
+Implementation, troubleshooting and administration of Red hat, Centos and UNIX servers.
+Deploy and configuration Redhat High Availability/Clustering, Creating LUN, volume Group, Host Group, and assigning to Server.
+Implementation, configuration of Linux servers like LAMP, Apache, Tomcat, Samba.
+Configuration & Troubleshooting of LVM & Various RAID Levels. 
+Configuration & troubleshooting Virtual Servers KVM, RHEL-V, OVM. 
+Configuration & troubleshooting of Storage hardware (SAN, NAS).
+Configuration & Troubleshooting of Backup Tools and perform backup operations.
+Salary: INR 3,00,000 - 5,00,000 P.A.
+
+Industry:IT-Hardware & Networking
+
+Functional Area:IT Hardware , Technical Support , Telecom Engineering
+
+Role Category:Technical Support
+
+Role:Technical Support Manager
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Linux Apache Tomcat Centos KVM Redhat Samba LVM Unix LAMP RAID Storage Hardware
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+
+PG:Any Postgraduate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Create organizational awareness on the Data Privacy policy.
+Develop the criteria & components of Data Privacy Model.
+Roll-out the Data Privacy Framework, residing on policies, procedures, guidelines, systems and controls
+Salary: Not Disclosed by Recruiter
+
+Industry:Banking, Financial Services, Broking
+
+Functional Area:IT Software - Network Administration , Security
+
+Role Category:Admin/Maintenance/Security/Datawarehousing
+
+Role:System Security
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Data Privacy Privacy Manager Privacy Framework Data Privacy Models Data Privacy Framework Data Privacy law CISM CISSP CSSLP CISA encryption standard IT Security BCMS
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: BCA - Computers, B.Sc - Any Specialization, B.Tech/B.E. - Any Specialization
+
+Company Profile:
+Inteegrity Career Solutions Pvt Ltd'
+
+rowing Recruitment Company
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Responsibilities : 
+
+Interacts with the Business Analyst and Product team to understand the business & functional requirements.
+Performs data modelling and implements the business rules.
+Defines source to target data mapping and data transformation logic as per the business need.
+Develop and migrate reports and associated components using Pentaho Business Suite and per the technical specifications provided.
+Integrate reports and associated components with legacy and third party applications.
+Performs production deployment and participate in post-production activities.
+
+Skill Set required :
+
+Extensive experience in developing reports, dashboards, drill-down charts, interactive reports using Pentaho report Designer, Ctools, Saiku, interactive analyser etc.
+Hands-on experience in developing using Pentaho Schema workbench, Meta data editor and Aggregator.
+Hands-on experience on Pentaho API for integration with parent applications.
+Data Warehousing, ETL and Business Intelligence experience using Pentaho Suite (Pentaho Data Integration/Kettle, Pentaho BI Server, Pentaho Meta Data and Pentaho Analysis Tool & OLAP and Ctools).
+Strong database skills Tables, Triggers, Procedures, Functions, and Views.
+Experience in ETL (Extract Transformation & Load) process and ELT Process
+Hands on Experience on Descriptive/ Predictive Reports.
+Hands on experience on designing as well.
+
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+data integration data warehousing business intelligence olap kettle etl data modeling pentaho data mapping ctools saiku business intelligence server
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate
+
+PG:Any Postgraduate
+
+Doctorate:Doctorate Not Required
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Dear Aspirant,
+
+Greetings From Heritage Nutrivet Ltd !
+
+Walk-in on 26th to 27th May 2019 for Pillet Mill, Supervisor, Boiler, PLC, Dumping, Electrician and Technician - Operations for our HNL Hindupur Plant 
+
+Experience: 0 - 5 Years
+
+Qualification : ITI , Diploma, B.Sc (Chemistry),
+
+1.Production Operators - 10 Nos Age: 20-35 Years
+ITI / Diploma ( PLC /Electrical / Fitter / Electronics / Instrumentation) along with 0 to 5 yrs of Experience in any manufacturing industrt. candidates having cattle feed industry back ground shall be preferred.
+
+2.Dumping Assistant - 3 Nos Age:20-25 Years
+Inter/ ITI / Diploma/ Graduate with 0 - 2 yrs of experience in Raw Material Dumping area of any manufacturing industry 
+
+
+Note: Freshers can be consider for Trainee position
+
+
+Date & Venue:
+Walk-In date : 26th TO 27th May 2019 from 09.00 AM - 04.00 PM
+
+Venue: 
+Heritage Nutrivet Limited
+Plot.41 A, APIIC Industrial Area, Gollapuram (vill), Hindupur MD, Anantapur District - 515211.
+
+Contact No:
+
+Mr.RaviTeja - Plant HR 
+Ph.no:- 8367796672
+Salary: INR 1,00,000 - 1,75,000 P.A.
+
+Industry:Agriculture, Dairy
+
+Functional Area:Production , Manufacturing , Maintenance
+
+Role Category:Production/Manufacturing/Maintenance
+
+Role:Product Development Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+ITI Electrical ITI Diploma Diploma Mechanical Engineer Diploma Electrical Engineer B Tech Mechanical Engineer Dumper Operator PLC Operator Pilot Fitter
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Graduation Not Required, Diploma - Any Specialization, B.Tech/B.E. - Any Specialization
+
+PG:Other
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Greetings from Encore Software Services !
+
+Currently we have urgent requirement for Wordpress Developer - Experience role with one of our projects, location based in Chennai. 
+
+Job Location : Chennai. 
+Job Role : Permanent 
+Experience : 2 - 4 yrs 
+Notice Period : Below 1 month 
+
+Please find the below JD for Wrodpress Developer :
+Good Communication Skills
+Must have hands On experience in Wordpress
+Good working experience in LAMP Stack.
+Experience is 2-4yrs
+Nice to have experience in AWS Especially on S3 Bucket and cloud search.
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+LAMP Wordpress AWS Cloud Software Services Communication Skills PHP php developer lamp developer lamp programmer php programmer Web Development website development website designing Blogging
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+Greetings from TEKsystems!
+
+People are at the heart of every successful business initiative. At TEKsystems, a leading provider of IT staffing and IT services, we understand people. Every year we deploy over 80,000 IT professionals at 6,000 client sites across North America, Europe and Asia. Our deep insights into the IT labor market enable us to help clients achieve their business goals-while optimizing their IT workforce strategies.
+My name is Jamuna and I represent TEKsystems [An Allegis Group Company]. At present we are looking out for .NET+SSIS Developer professional for one of our esteemed clients for Hyderabad. Interested candidates are requested to contact me at jmarling@teksystems.com along with the below information:
+Total Exp:
+Relevant Exp:
+Current company:
+CTC:
+ECTC:
+Official notice period:
+Can you join immediate or less than 30 days?:
+Salary: INR 5,00,000 - 15,00,000 P.A.
+
+Keyskills
+.NET AND SSIS AND MVC AND C#
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description
+  
+We Offer 
+
+Interesting and challenging work in a large and dynamically developing company
+Exciting projects involving the newest technologies
+Professional development opportunities
+Excellent compensation and benefits package, performance bonus program
+Modern and comfortable office facilities
+
+- 3+ years development experience in the required set of technologies
+- Understanding of working Agile model
+- Good debugging, problem solving and analytical skills
+- Good understanding of requirement analysis and impact analysis
+- Good with code analysis
+- Good communication skills
+- Good knowledge of OOPS concepts.
+- Good knowledge of the standard library, STL containers, and algorithms.
+- Having good debugging skills. 
+- Good knowledge of Data structures.
+-OS knowledge (Memory management, IPC, shared memory management, Mutexes, Semaphores).
+
+
+Job Responsibilities
+
+Work individually to design and develop new feature and able to resolve issue reported for the product using (C programming).
+
+Communicate with client effectively.
+
+Adhere to all defined processes.
+
+Salary: INR Best In The Industry
+
+Industry:IT-Software / Software Services
+
+Functional Area:IT Software - Application Programming, Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+C Linux BSD Sockets C - LinuxC++
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Opportunity for Database Developer at Morningstar.
+Exp Range - 3 to 5 yrs
+Mandate Skills - SQL, ETL Tool
+Good to have - Shell Scripting, .net
+Location - Vashi
+JD
+The Team 
+
+Morningstars structured credit research and ratings subsidiary (MCR) is a Nationally Recognized Statistical Ratings Organization (NRSRO) that has earned a reputation for innovation and excellence in the structured finance market. This group aims to increase market transparency and provides the highest quality ratings through securities research, monitoring services, data, and technology solutions.
+
+The Role
+
+We are looking for a Database Analyst to join our team in Mumbai. The ideal candidate should have a fixed income/structured finance background. The candidate should be a team player, possess excellent communication skills (both verbal and written), willing to work with various stakeholders from product, technology, and program management. A key part of this role is to bring automation into the way we generate reports or deliver data while liaising with teams located in New York and Chicago.
+
+Responsibilities
+
+Plan and prioritize data task backlog and development for the data offering and help define the data vision, road-map and growth opportunities 
+The setting, prioritizing and evaluating the work generated by the technology team in order to ensure impeccable data coverage and data quality/functionality of MCR products. 
+Generate custom and periodic reports as per the specification provided by Business Stakeholders using database tables and stored procs.
+Serve as an expert in Morningstars data, calculations, and methodology by answering questions and escalations.
+Troubleshoot data issues with rating workflow, web site and other components of MCR product.
+Resolve database integrity issues, blocking and deadlocking issues, log issues, connectivity issues, security issues, etc.
+Maintain and strengthen existing relationships with fund companies and clients as well as 3rd party data providers.
+Collaborate with global team members to continuously refine procedures, improve communication, create and enhance analytical tools, and implement process improvements.
+Serve as an expert in Morningstars data, calculations, and methodology by answering questions and escalations
+
+Requirements
+
+Excellent grasp of RDBMS concepts and MS SQL Server. Good hold of SQL, PL/SQL, DB transactions, Data Integrity, and related concepts.
+Detail-oriented self-starter with an enthusiasm to drive process improvements and knowledge sharing. Prior experience with LEAN methodology and tools is a plus. 
+Experience working directly with clients, asset managers, or third-party data vendors.
+Some experience with programming languages like C#, ASP.net, IIS and Windows Enterprise Server is preferred.
+Knowledge of DB access controls and privileges.
+Ability to write and troubleshoot SQL Code and design (stored procedures, functions, tables, views, triggers, indexes, constraints) and experience in creating database architecture with the associated schema as part of a software design process.
+
+Salary: INR 4,00,000 - 7,00,000 P.A.
+
+Industry:Banking, Financial Services, Broking
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+&quot ; Database Developer&quot ; &quot ; Database development&quot ; SQL SQL Development ETL Tool SSRS SSIS Developer Shell Scripting Database Design database development SQL Database ASP.Net .net ASP.Net MVC
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Greetings!! From MBIT India. 
+
+Job Description:-
+
+Hands on Experience:- 4+ years relevant experience 
+
+Must have Skills:- HP Exstream Developer
+
+Location:- PUNE
+
+Eligibility Criteria:- 
+
+4+ years of minimum experience in relevant skill.
+Gap should not be more than 2 Years between education & Career.
+More than 50 % marks in academics.
+Notice period not more than 30 Days.
+Education must be regular.
+
+Interested candidates can contact on:
+
+Bhawna Verma
+
+HR Executive
+
+Mbit Computraining Pvt Ltd
+
+Mob No: 9634900075
+Mailto- bhawna@mbitindia.net
+Website- www.mbitindia.com
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software, Software Services
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+hp exstream
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Any Graduate - Any Specialization
+
+PG:Any Postgraduate - Any Specialization
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description 
+
+Urgent Hiring !! Gurgaon !! 3 openings !! Female preferred !!
+
+Greetings from Essvee Consultants !!
+
+{ Interested can share cv at kavita@essveeservices.co.in }
+
+About us:- 
+Essvee Group was initiated in the year 2016 and It's an certified organization that services clients with a host of HR solutions, encompassing Recruitment, Corporate and Institutional Training. We are reputed for delivering effective results consistently with focus, understanding and forever emphasis on quality. We are well equipped to handle profiles of all level with an in-depth understanding of this ever growing and demanding industry.
+
+Here is the JD...
+
+We are looking for a Recruiter with full-cycle recruiting experience, from talent sourcing and attracting candidates to interviewing and hiring great employees.
+
+The recruiting, interviewing, and screening responsibilities of HR recruiters can be further broken down by daily job duties, which include:
+
+Screening resumes
+Performing in-person and phone interviews with candidates.
+Coordinating interviews with the hiring managers
+Following up on the interview process status.
+Develop and update job descriptions and job specifications.
+Source and recruit candidates by using databases like Naukri, Monster, Shine, Freshersworld & indeed, social media etc
+Screen candidates resumes and job applications.
+Conduct interviews using various reliable recruiting and selection tools/methods to filter candidates within schedule.
+Act as a point of contact and build influential candidate relationships during the selection process.
+
+Skill Set: good communication skills.
+
+Qualification: should be graduate.
+
+We prefer candidate to join us in short notice.
+
+Please furnish the below mentioned details, that would help us expedite the process.
+
+NAME -
+POSITION APPLYING FOR -
+TOTAL EXP -
+Current Salary : 
+Expected Salary: 
+Notice Period :
+
+Hope to receive response at the earliest.
+
+
+Salary: INR 1,50,000 - 3,00,000 P.A.
+
+Industry:Recruitment, Staffing
+
+Functional Area:HR , Recruitment , Administration , IR
+
+Role Category:HR/ Recruitment / IR
+
+Role:HR Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Recruitment Hiring HR Bulk Hiring IT hiring Non IT Recruitment
+Desired Candidate Profile
+Candidate should have good communication skills & prior working experience into Recruitment.
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+2 to 6 years of experience in US recruitment
+Candidates with Energetic, Hardworking, Keen to Learn Attitude.
+Excellent Oral & Written communication skills with a complete understanding of end to end US Staffing.
+Excellent sourcing, screening and negotiation skills.
+Excellent work ethic, passion for their work, and ability to work in diverse teams.
+Should have the ability to deliver results and handle pressure.
+Recruiting IT professional across the US through direct phone sourcing, networking, referrals, and expanded Internet sourcing using Job Portals. Speaking to candidate taking telephonic interview, understand their competencies & skill sets, making them understand job role, check their visa status.
+Very Good Understanding of H1B Transfers, Visa etc.
+Dealing with the pay rate tax terms like C2C, 1099 and W2 based consultants. Posting vacancies on Job portals like Dice, Indeed etc.,
+Understanding the requirement provided by the Client and identifying the candidates suitable for that opening on the basis of mapping of the profiles with the requirement.
+Contacting the candidates short listed after initial mapping and checking their willingness for the opening, forwarding the profiles of short-listed candidates to the clients.
+Source potential candidates through personal database, Internet resources, referrals for positions.
+Sourced and placed IT consultants on various projects with direct and indirect clients, in various locations across US for the contract positions and permanent position.
+Submit consultants resume to clients & scheduled coordinate interviews with managers & consultants.
+Work in PST timezone
+Salary: INR 2,00,000 - 7,00,000 P.A.
+
+Industry:IT-Software, Software Services
+
+Functional Area:HR , Recruitment , Administration , IR
+
+Role Category:HR/ Recruitment / IR
+
+Role:Recruitment Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Hiring Recruitment W2 Social Media Client Server Data Warehousing us it staffing and consulting industry us it recruitment us it staffing corp
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Understanding  the  job description
+Sourcing the  Resume  from  portal , social media
+screening  the  resume
+cold  calling
+conducting interview  on phone
+uploading the  Resume  
+follow up with candiadate for interview
+managing candidate database
+handling  end  to end  recruitment
+nowhow  to operate job portal
+recruitment  on IT and  regular  Sector
+
+
+Salary: INR 1,50,000 - 3,50,000 P.A.
+
+Industry:Recruitment, Staffing
+
+Functional Area:HR , Recruitment , Administration , IR
+
+Role Category:HR/ Recruitment / IR
+
+Role:Recruitment Executive
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+recruitment interviewing Cold Calling Sourcing
+
+---------------------------------------------------------------------------------------------------------------------------------------
+job Description 
+Job Title: Technical Marketing Engineer / Technical Sales Coordinator./Technical Sales Engineer/Sr. Engineer Sales
+
+
+Job Description: Generate enquiries from different databases; Make technical calls to clients; Introduce Company & send profile of our product range like Gas detection systems, Gas Analysers, Process Control Instruments; prepare & send techno commercial offers; follow-up for orders and coordinate with various internal departments till dispatch.
+
+Key Skills Required:
+
+Must be a self-starter.
+Must be able to demonstrate & record high levels of sales achievements. 
+Solutions-selling experience in the following areas Gas Analyzers, Gas detection Systems, Process control instruments, Automation.
+Good Written and Verbal Communication Skills
+Location: Andheri East, Mumbai (Candidates residing in Western Mumbai will be preferred).
+
+Experience: 2 to 4 yrs or more
+
+Industry: Manufacturing Engineering Company /Oil & Gas and other
+
+Salary: Best as per Industry standard.
+
+Qualification: B.Sc/Diploma/B.E/B.Tech in Electronics or Instrumentation.
+
+Gender: Male / Female both.
+
+
+refer our website careers page for more about our vacancy.
+
+Salary: INR 1,50,000 - 3,50,000 P.A. best in Industry
+
+Industry:Oil and Gas, Energy, Power, Infrastructure
+
+Functional Area:Sales , Retail , Business Development
+
+Role Category:Institutional Sales
+
+Role:Sales/Business Development Manager
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+Technical Sales Email Marketing email sales email business development Quotation Proposals Electronics Instrumentation Process Control Instrumentation Field Sales Transmitters temperature flow
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG: Diploma - Any Specialization, Electronics/Telecommunication, Electrical, B.Sc - Any Specialization, Electronics
+
+PG:MS/M.Sc(Science) - Any Specialization, Electronics, MBA/PGDM - Any Specialization, Marketing
+---------------------------------------------------------------------------------------------------------------------------------------
+Job Description 
+Opportunity for Database Developer at Morningstar.
+Exp Range - 3 to 5 yrs
+Mandate Skills - SQL, ETL Tool
+Good to have - Shell Scripting, .net
+Location - Vashi
+JD
+The Team 
+
+Morningstars structured credit research and ratings subsidiary (MCR) is a Nationally Recognized Statistical Ratings Organization (NRSRO) that has earned a reputation for innovation and excellence in the structured finance market. This group aims to increase market transparency and provides the highest quality ratings through securities research, monitoring services, data, and technology solutions.
+
+The Role
+
+We are looking for a Database Analyst to join our team in Mumbai. The ideal candidate should have a fixed income/structured finance background. The candidate should be a team player, possess excellent communication skills (both verbal and written), willing to work with various stakeholders from product, technology, and program management. A key part of this role is to bring automation into the way we generate reports or deliver data while liaising with teams located in New York and Chicago.
+
+Responsibilities
+
+Plan and prioritize data task backlog and development for the data offering and help define the data vision, road-map and growth opportunities 
+The setting, prioritizing and evaluating the work generated by the technology team in order to ensure impeccable data coverage and data quality/functionality of MCR products. 
+Generate custom and periodic reports as per the specification provided by Business Stakeholders using database tables and stored procs.
+Serve as an expert in Morningstars data, calculations, and methodology by answering questions and escalations.
+Troubleshoot data issues with rating workflow, web site and other components of MCR product.
+Resolve database integrity issues, blocking and deadlocking issues, log issues, connectivity issues, security issues, etc.
+Maintain and strengthen existing relationships with fund companies and clients as well as 3rd party data providers.
+Collaborate with global team members to continuously refine procedures, improve communication, create and enhance analytical tools, and implement process improvements.
+Serve as an expert in Morningstars data, calculations, and methodology by answering questions and escalations
+
+Requirements
+
+Excellent grasp of RDBMS concepts and MS SQL Server. Good hold of SQL, PL/SQL, DB transactions, Data Integrity, and related concepts.
+Detail-oriented self-starter with an enthusiasm to drive process improvements and knowledge sharing. Prior experience with LEAN methodology and tools is a plus. 
+Experience working directly with clients, asset managers, or third-party data vendors.
+Some experience with programming languages like C#, ASP.net, IIS and Windows Enterprise Server is preferred.
+Knowledge of DB access controls and privileges.
+Ability to write and troubleshoot SQL Code and design (stored procedures, functions, tables, views, triggers, indexes, constraints) and experience in creating database architecture with the associated schema as part of a software design process.
+
+Salary: INR 4,00,000 - 7,00,000 P.A.
+
+Industry:Banking, Financial Services, Broking
+
+Functional Area:IT Software - Application Programming , Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type: Permanent Job, Full Time
+
+Keyskills
+&quot ; Database Developer&quot ; &quot ; Database development&quot ; SQL SQL Development ETL Tool SSRS SSIS Developer Shell Scripting Database Design database development SQL Database ASP.Net .net ASP.Net MVC
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+

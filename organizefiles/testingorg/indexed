@@ -1,0 +1,109 @@
+#include<stdio.h>
+
+typedef struct Sfile
+{
+    int id;
+    int index;
+    int nob;
+    int blocks[25];
+}sfile;
+
+int block[25];
+sfile file[25];
+int free = 25;
+
+void enter(int f)
+{
+    if(file[f].nob+1 > free)
+        return ;
+    free = free-file[f].nob-1;
+    int i=0;
+    for(i=0;i<25;i++)
+    {
+        if(block[i] == -1)
+            break;
+    }
+    file[f].index = i;
+    block[i] = 1;
+    int ite=0;
+    for(i=i+1;i<25;i++)
+    {
+        if(block[i] == -1)
+        {
+            block[i] = 1;
+            file[f].blocks[ite++] = i;
+            if(ite == file[f].nob)
+                break;
+        }
+    }
+}
+
+void delete(int id)
+{
+    int i=0,j=0;
+    for(i=0;i<25;i++)
+    {
+        if(id == file[i].id)
+        {
+            for(j=0;j<file[i].nob;j++)
+            {
+                block[file[i].blocks[j]] = -1;
+            }
+            free = free + file[i].nob+1;
+            block[file[i].index] = -1;
+            break;
+        }
+    }
+    if(i == 25)
+        printf("\nthe file not found");
+}
+
+void print()
+{
+    int i=0;
+    for(i=0;i<25;i++)
+    {
+        if(file[i].id == -1)
+            continue;
+        printf("\n%d   %d",file[i].id,file[i].index);
+    }
+
+}
+
+int main()
+{
+    int i;
+    int ite=1;
+    for(i=0;i<25;i++)
+    {
+        file[i].id = -1;
+        block[i] = -1;
+    }
+    int cho=-1;
+    i=0;
+    while(ite)
+    {
+        printf("\n1.enter 2.delete 3.print 4.table 5.quit");
+        scanf("%d", &cho);
+        switch(cho)
+        {
+        case 1:
+            printf("enter the process name, nob: " );
+            scanf("%d %d" , &file[i].id,&file[i].nob);
+            enter(i);
+            i++;
+            break;
+        case 2:
+            printf("enter the process name : ");
+            int k;
+            scanf("%d", &k);
+            delete(k);
+            break;
+        case 3:
+            print();
+            break;
+        default:
+            ite=0;
+        }
+    }
+}
